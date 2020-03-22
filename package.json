@@ -1,0 +1,19 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "myfirst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukman88/first_node_js_project.git"
+  },
+  "author": "rukman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rukman88/first_node_js_project/issues"
+  },
+  "homepage": "https://github.com/rukman88/first_node_js_project#readme"
+}
